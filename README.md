@@ -9,4 +9,5 @@ name
    <img align="center" alt="renan" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="renan" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
-![Snake animation](https://github.com/renansouza12/renansouza12/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/renansouza12/renansouza12/blob/output/github-contribution-grid-snake.svg)

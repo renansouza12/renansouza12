@@ -1,4 +1,4 @@
-  <h1 align="center">Hello!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px"> I'm Renan Souza !</h1> 
+  <h1 align="center">Hello!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Renan Souza !</h1> 
 <h4>Languages</h4>
  <div style="display: inline_block" align="left">
    <img align="center" alt="renan-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">

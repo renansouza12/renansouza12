@@ -1,5 +1,5 @@
   <h1 align="center"> Hello!! <img src="./hi.gif" height="30px" width="30px"></h1> 
-  <p>I am Renan de Souza Aquino , 18 years old</p>
+  <p>I am Renan de Souza Aquino , 18 years old, I live in Brazil more specifically in Manaus</p>
 <h4>Languages</h4>
  <div style="display: inline_block" align="left">
    <img align="center" alt="renan-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">

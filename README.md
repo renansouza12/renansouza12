@@ -6,6 +6,7 @@
 <ul>
   <li> :smiley: I'm Renan de Souza Aquino.</li>
   <li> :raising_hand: I'm 18 years old.</li>
+  <li>  :house: I'm live in Brazil more specifically in Manaus</li>
   <li> :seedling: I'm current studying Javascript.</li>
 </ul>
     

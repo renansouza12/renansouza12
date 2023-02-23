@@ -9,7 +9,9 @@
   <li>  :house: I'm live in Brazil more specifically in Manaus</li>
   <li> :seedling: I'm current studying Javascript.</li>
 </ul>
-    
+   
+#
+   
 </div>
 
 <div style="display:flex" align="center">
@@ -17,6 +19,6 @@
   <img img align="top" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouza12&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  
+#  
 
   ![Snake animation](https://github.com/renansouza12/renansouza12/blob/output/github-contribution-grid-snake.svg)

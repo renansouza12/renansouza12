@@ -7,7 +7,7 @@
 
 <p>Hello , I'm Renan de Souza Aquino , currently living in Brazil specifically in Manaus , I'm 18 years old , currently studying Angular.</p>
 
-<h2>Technology Stacks</h2> 
+<h2>Technologies</h2> 
   
 
 <div class="icons" style="display:flex;" align="center">

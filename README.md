@@ -1,5 +1,5 @@
 <div class="image_banenr" align="center">
-   <img width="1000px" src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif"/>
+   <img width="1000px" src="https://i.pinimg.com/originals/09/23/dd/0923dd779b6e4825ca4f59f6c902fa36.gif"/>
 </div>
 
 
@@ -18,11 +18,13 @@
 </div>
 
 <h1>Stats</h1>
+<div class="streaks" align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=renansouza12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a></div>
 
+#
 
-<div style="display:flex" align="center">
-  <img align="top" height="150rem" src="https://github-readme-stats.vercel.app/api?username=renansouza12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img img align="top" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansouza12&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=renansouza12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+   
 </div>
-
-  ![Snake animation](https://github.com/renansouza12/renansouza12/blob/output/github-contribution-grid-snake.svg)

@@ -5,7 +5,7 @@
 
 <h1>About me</h1>
 
-<p>Hello , I'm Renan de Souza Aquino , currently living in Brazil specifically in Manaus , I'm 18 years old , currently studying Angular.</p>
+<p>Hello , I'm Renan de Souza Aquino , currently living in Brazil specifically in Manaus , I'm 19 years old , currently studying Angular.</p>
 
 <h2>Technologies</h2> 
   

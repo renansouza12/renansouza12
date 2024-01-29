@@ -27,8 +27,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=renansouza12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![snake gif](https://github.com/renansouza12/renansouza12/blob/output/github-contribution-grid-snake.gif)
-
 </div>
 
 

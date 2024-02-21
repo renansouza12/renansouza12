@@ -21,6 +21,12 @@
 <div class="streaks" align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=renansouza12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a></div>
 
 #
+<div  align="center">
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansouza12&&theme=tokyonight&layout=compact)
+   
+</div>
+
 
 <div align="center">
 

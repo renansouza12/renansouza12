@@ -1,5 +1,5 @@
 <div class="image_banenr" align="center">
-   <img width="1000px" src="https://i.pinimg.com/originals/c8/dc/cc/c8dcccc91727a9e134ebbe448498ce1c.gif"/>
+   <img width="1000px" src="https://i.pinimg.com/originals/c1/5d/2c/c15d2c3aaf55d18f35e821555bee546b.gif"/>
 </div>
 
 

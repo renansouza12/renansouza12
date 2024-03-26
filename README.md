@@ -1,4 +1,4 @@
-<img align="right" height="400em" width="300px" object-fit="cover" src="https://i.pinimg.com/originals/96/4a/31/964a31a2ddd7225ac9afd49be5e59949.gif"/>
+<img align="right" height="400em" width="400px" object-fit="cover" src="https://i.pinimg.com/originals/d6/d9/38/d6d938615e4e714089e7cadbbc10742a.gif"/>
 <h1 align="left">Salut <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Renan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renansouza12&color=red" alt="Profile views" /> </p>
 

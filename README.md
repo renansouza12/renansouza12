@@ -1,4 +1,4 @@
-<img align="right" height="500em" width="400px" object-fit="cover" src="https://i.pinimg.com/originals/78/1a/75/781a75a112e6c689dd1030f4ad495512.gif"/>
+<img align="right" height="500em" width="400px" object-fit="cover" src="https://i.pinimg.com/originals/c4/0d/b6/c40db646d0057450cf5d2d6edda34dbe.gif"/>
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Salut , I'm Renan Souza</h1>
 
  ### 🦥 About me:

@@ -1,4 +1,4 @@
-<img align="right" height="500em" width="400px" object-fit="cover" src="https://i.pinimg.com/originals/b4/2b/4a/b42b4affcbdf1b4e7cebbcc8411cb4c9.gif"/>
+<img align="right" height="500em" width="400px" object-fit="cover" src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif"/>
 
 <h1 align="center"> Hello,  I'm Renan  </h1>
 

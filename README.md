@@ -1,32 +1,32 @@
 <img align="right" height="500em" width="400px" object-fit="cover" src="https://i.pinimg.com/originals/b8/7a/d9/b87ad9c8eaa23ede103b4acd13f05d1f.gif"/>
 
-<h1 align="center"> Hello,  I'm Renan  </h1>
+<h1 align="center"> 你好</h1>
 
- ### - About me 
-
-🌍 Based in Brazil.<br/>
-📚 Front end Student.<br/>
+### - Who I Am
+☄️ Renan Souza<br/>
+📚 Full Stack Aspirant.<br/>
 ⭐ Passion for crafting elegant solutions.<br/>
 
+### - Technologies I Work With
 
- ### - My  currently Technologies
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30px" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30px" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="30px" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="30px" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30px" style="margin-right: 10px;">
+</div>
 
+### - What I'm Learning Now
 
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html" width="30px">   <img  src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css" width="30px">  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="js" width="30px"> <img  src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" alt="angular" width="30px"> 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30px" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="30px" style="margin-right: 10px;">
+</div>
 
+### - A Thought on Life
 
-
-
-
-
-
-### - Studying at the moment
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,java)
-### ✉ Get in touch:
-
-📨 Feel free to reach out for collaborations or just a chat!<br/>
-📧 Email me at renansouza0122@gmail.com.<br/>
-
+🌱 Life is not about finding yourself, it's about creating yourself. Keep growing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renansouza12&color=red" alt="Profile views" /> </p>
 
